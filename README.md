@@ -1,2 +1,2 @@
 # LP2
-LP2 - Atividades
+LP2 - Projetos desenvolvidos para FATEC
